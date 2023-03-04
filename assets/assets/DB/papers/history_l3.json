@@ -1,0 +1,385 @@
+{
+    "id": "ppr003",
+    "title": "History-L3",
+    "quiz_area": "History",
+    "image_url": "",
+    "description": "Hard History Questions to practice Hard History quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "What does CSS stand for?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Cascading Style Sheets"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Computer Style Sheets"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Creative Style Sheets"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Coded Style Sheets"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "What is a CDN?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Content Distribution Network"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Content Delivery Network"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Content Development Network"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Content Design Network"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "What is the difference between server-side scripting and client-side scripting?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Server-side scripting is executed on the client's computer while client-side scripting is executed on the server."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Server-side scripting is executed on the server while client-side scripting is executed on the client's computer."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Server-side scripting and client-side scripting are the same thing."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Server-side scripting is used for styling while client-side scripting is used for data validation."
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "What is the difference between HTML and XHTML?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "XHTML is a reformulation of HTML as an XML application."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "HTML is a reformulation of XHTML as an XML application."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "HTML and XHTML are the same thing."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "XHTML is used for client-side scripting while HTML is used for server-side scripting."
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "What is the difference between padding and margin in CSS?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Padding is the space outside an element while margin is the space inside an element."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Padding is the space inside an element while margin is the space outside an element."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Padding and margin are the same thing."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Padding is used for text formatting while margin is used for layout spacing."
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q006",
+            "question": "If a car travels 60 miles per hour, how long will it take to travel 300 miles?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3 hours"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4 hours"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "5 hours"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "6 hours"
+                }
+            ],
+            "format": "",
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q007",
+            "question": "If the sum of two numbers is 72 and one number is 15 more than the other, what are the two numbers?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "28 and 44"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "35 and 37"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "39 and 33"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "40 and 32"
+                }
+            ],
+            "format": "",
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr003q008",
+            "question": "If a square has a perimeter of 28 units, what is the length of one of its sides?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3.5 units"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4 units"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "5 units"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "6 units"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q009",
+            "question": "If 4 workers can finish a project in 8 days, how many days will it take for 6 workers to finish the same project?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "4 days"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "6 days"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "8 days"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "12 days"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q010",
+            "question": "If the area of a rectangle is 72 square meters and its length is 12 meters, what is its width?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "6 meters"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "9 meters"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "12 meters"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "18 meters"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr003q011",
+            "question": "What is the smallest planet in our solar system?",
+            "is_mcq": true,
+            "answers": [
+              {
+                "identifier": "A",
+                "Answer": "Mercury"
+              },
+              {
+                "identifier": "B",
+                "Answer": "Venus"
+              },
+              {
+                "identifier": "C",
+                "Answer": "Mars"
+              },
+              {
+                "identifier": "D",
+                "Answer": "Earth"
+              }
+            ],
+            "format": "",
+            "correct_answer": "A"
+          },
+          {
+            "id": "ppr003q012",
+            "question": "What is the longest river in Africa?",
+            "is_mcq": true,
+            "answers": [
+              {
+                "identifier": "A",
+                "Answer": "Niger River"
+              },
+              {
+                "identifier": "B",
+                "Answer": "Congo River"
+              },
+              {
+                "identifier": "C",
+                "Answer": "Zambezi River"
+              },
+              {
+                "identifier": "D",
+                "Answer": "Nile River"
+              }
+            ],
+            "format": "",
+            "correct_answer": "D"
+          },
+          {
+            "id": "ppr003q013",
+            "question": "What is the capital of Iceland?",
+            "is_mcq": true,
+            "answers": [
+              {
+                "identifier": "A",
+                "Answer": "Helsinki"
+              },
+              {
+                "identifier": "B",
+                "Answer": "Stockholm"
+              },
+              {
+                "identifier": "C",
+                "Answer": "Reykjavik"
+              },
+              {
+                "identifier": "D",
+                "Answer": "Oslo"
+              }
+            ],
+            "format": "",
+            "correct_answer": "C"
+          },
+          {
+            "id": "ppr003q014",
+            "question": "What is the smallest country in the world by land area?",
+            "is_mcq": true,
+            "answers": [
+              {
+                "identifier": "A",
+                "Answer": "Monaco"
+              },
+              {
+                "identifier": "B",
+                "Answer": "Vatican City"
+              },
+              {
+                "identifier": "C",
+                "Answer": "San Marino"
+              },
+              {
+                "identifier": "D",
+                "Answer": "Liechtenstein"
+              }
+            ],
+            "format": "",
+            "correct_answer": "B"
+          },
+          {
+            "id": "ppr003q015",
+            "question": "Who discovered penicillin?",
+            "is_mcq": true,
+            "answers": [
+              {
+                "identifier": "A",
+                "Answer": "Alexander Fleming"
+              },
+              {
+                "identifier": "B",
+                "Answer": "Marie Curie"
+              },
+              {
+                "identifier": "C",
+                "Answer": "Thomas Edison"
+              },
+              {
+                "identifier": "D",
+                "Answer": "Albert Einstein"
+              }
+            ],
+            "format": "",
+            "correct_answer": "A"
+          }
+    ]
+}

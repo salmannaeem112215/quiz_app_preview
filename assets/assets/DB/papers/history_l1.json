@@ -1,0 +1,385 @@
+{
+    "id": "ppr001",
+    "title": "History-L1",
+    "quiz_area": "History",
+    "image_url": "",
+    "description": "Basic History Questions to practice basic History quiz answers of diffrent Subjects ",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "Which of the following was the first civilization?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Mayan"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Egyptian"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Greek"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Roman"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "Who was the first president of the United States?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "George Washington"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Thomas Jefferson"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "John Adams"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Benjamin Franklin"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "What was the Industrial Revolution?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A period of political revolution in Europe"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A period of economic and social change in Europe and America"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A period of artistic and cultural revival in Europe"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "A period of religious reformation in Europe"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "Who was the queen of England during World War II?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Queen Victoria"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Queen Elizabeth II"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Queen Elizabeth I"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Queen Mary"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Which war did the United States fight in from 1950 to 1953?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "World War I"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "World War II"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Vietnam War"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Korean War"
+                }
+            ],
+            "format": "",
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q006",
+            "question": "Who is considered the father of modern computers?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Ada Lovelace"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Charles Babbage"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Alan Turing"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "John von Neumann"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr001q007",
+            "question": "What was the first computer virus called?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Creeper"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Melissa"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "ILOVEYOU"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Brain"
+                }
+            ],
+            "format": "",
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q008",
+            "question": "What was the first personal computer?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Apple I"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "IBM PC"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Altair 8800"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Commodore PET"
+                }
+            ],
+            "format": "",
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q009",
+            "question": "What was the first graphical web browser?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Mosaic"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Netscape Navigator"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Internet Explorer"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Firefox"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q010",
+            "question": "What was the first computer game?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Tennis for Two"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Pac-Man"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Space Invaders"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Pong"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q011",
+            "question": "Who discovered penicillin?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Alexander Fleming"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Louis Pasteur"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Marie Curie"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Robert Koch"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q012",
+            "question": "What is the name of the first satellite launched into space?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Sputnik 1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Vostok 1"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Explorer 1"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Apollo 11"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q013",
+            "question": "Who is credited with discovering the double helix structure of DNA?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "James Watson and Francis Crick"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Gregor Mendel"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Rosalind Franklin"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Barbara McClintock"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q014",
+            "question": "What is the name of the first person to walk on the moon?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Neil Armstrong"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Buzz Aldrin"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Michael Collins"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Yuri Gagarin"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q015",
+            "question": "Who is known as the father of modern genetics?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Gregor Mendel"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Charles Darwin"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Louis Pasteur"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Robert Koch"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "ppr004",
+    "title": "Numeracy-L1",
+    "quiz_area": "Numeracy",
+    "image_url": "",
+    "description": "Basic Numeracy Questions to practice basic Numeracy quiz answers",
+    "time_seconds": 300,
+    "questions": [
+        {
+            "id": "ppr004q001",
+            "question": "What is the sum of 5 + 7?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "12"
+        },
+        {
+            "id": "ppr004q002",
+            "question": "What is the product of 3 and 4?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "12"
+        },
+        {
+            "id": "ppr004q003",
+            "question": "What is the quotient of 12 divided by 3?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "4"
+        },
+        {
+            "id": "ppr004q004",
+            "question": "What is 25% of 80?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "20"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "What is the value of 'x' in the equation 2x + 5 = 13?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "4"
+        },
+        {
+            "id": "ppr004q006",
+            "question": "What is the largest digit in the decimal number system?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "9"
+        },
+        {
+            "id": "ppr004q007",
+            "question": "What is the smallest prime number?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "2"
+        },
+        {
+            "id": "ppr004q008",
+            "question": "What is the next number in the sequence: 1, 3, 5, 7, ____",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "9"
+        },
+        {
+            "id": "ppr004q009",
+            "question": "What is the value of pi (π) to two decimal places?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x.yz",
+            "correct_answer": "3.14"
+        },
+        {
+            "id": "ppr004q010",
+            "question": "What is the square root of 64?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "8"
+        },
+        {
+            "id": "ppr004q011",
+            "question": "What is the value of 'y' in the equation y + 7 = 13?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "6"
+        },
+        {
+            "id": "ppr004q012",
+            "question": "What is the value of 'z' in the equation 2z - 8 = 10?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "9"
+        },
+        {
+            "id": "ppr004q013",
+            "question": "What is the value of 'a' in the equation 3a - 6 = 9?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "5"
+        },
+        {
+            "id": "ppr004q014",
+            "question": "What is the next number in the sequence: 2, 4, 6, 8, ____",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "10"
+        },
+        {
+            "id": "ppr004q015",
+            "question": "What is the value of 'b' in the equation 2b + 3 = 13?",
+            "is_mcq": false,
+            "answers": [],
+            "format":"x",
+            "correct_answer": "5"
+        }
+    ]
+}

@@ -1,0 +1,385 @@
+{
+    "id": "ppr002",
+    "title": "History-L2",
+    "quiz_area": "History",
+    "image_url": "",
+    "description": "Normal History Questions to practice Normal History quiz answers",
+    "time_seconds": 600,
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "Who is considered the father of modern physics?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Albert Einstein"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Isaac Newton"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Galileo Galilei"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Johannes Kepler"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "What is the famous equation proposed by Albert Einstein?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "E=mc^2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "F=ma"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "V=IR"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "P=mv"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "Who proposed the theory of general relativity?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Albert Einstein"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Isaac Newton"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Galileo Galilei"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Johannes Kepler"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q004",
+            "question": "What was the name of the first artificial satellite launched into orbit?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Sputnik 1"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Explorer 1"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Vanguard 1"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Apollo 11"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "What is the famous thought experiment proposed by Erwin Schrödinger?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The Double Slit Experiment"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The Photoelectric Effect"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The Uncertainty Principle"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Schrödinger's Cat"
+                }
+            ],
+            "format": "",
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr002q006",
+            "question": "Who is known as the father of modern chemistry?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Antoine Lavoisier"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "John Dalton"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Dmitri Mendeleev"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Robert Boyle"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q007",
+            "question": "What is the chemical symbol for iron?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Fe"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "I"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Na"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Au"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q008",
+            "question": "What is the most abundant gas in Earth's atmosphere?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Oxygen"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Carbon dioxide"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Nitrogen"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Hydrogen"
+                }
+            ],
+            "format": "",
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q009",
+            "question": "What is the process by which a solid changes directly into a gas?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Evaporation"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Condensation"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Sublimation"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Filtration"
+                }
+            ],
+            "format": "",
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q010",
+            "question": "What is the chemical formula for water?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "CO2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "H2O"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "O2"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "NaCl"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q011",
+            "question": "What is the programming language used to develop iOS apps?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Java"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Swift"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Python"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Ruby"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q012",
+            "question": "What does the acronym 'SDK' stand for in mobile app development?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Software Development Kernel"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Software Development Kit"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Software Development Kingdom"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Software Development Kiosk"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q013",
+            "question": "What is the process of publishing a mobile app on the Apple App Store called?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Submit for Review"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Publish"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Submit for Approval"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Submit for Release"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q014",
+            "question": "What is the process of publishing a mobile app on the Google Play Store called?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Submit for Review"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Publish"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Submit for Approval"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Submit for Release"
+                }
+            ],
+            "format": "",
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q015",
+            "question": "What is the name of the Google platform that allows for easy cross-platform mobile app development?",
+            "is_mcq": true,
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Flutter"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "React Native"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Xamarin"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Ionic"
+                }
+            ],
+            "format": "",
+            "correct_answer": "A"
+        }
+    ]
+}

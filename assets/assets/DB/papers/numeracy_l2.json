@@ -1,0 +1,130 @@
+{
+    "id": "ppr005",
+    "title": "Numeracy-L2",
+    "quiz_area": "Numeracy",
+    "image_url": "",
+    "description": "Normal Numeracy Questions to practice normal Numeracy quiz answers",
+    "time_seconds": 600,
+    "questions": [
+        {
+            "id": "ppr005q001",
+            "question": "What is the value of x in the equation 3x - 5 = 7?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "4"
+        },
+        {
+            "id": "ppr005q002",
+            "question": "What is the value of y in the equation 2y + 6 = 14?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "4"
+        },
+        {
+            "id": "ppr005q003",
+            "question": "What is the result of the expression (4 + 6) × 2?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "20"
+        },
+        {
+            "id": "ppr005q004",
+            "question": "What is the value of z in the equation 5z - 2 = 23?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "5"
+        },
+        {
+            "id": "ppr005q005",
+            "question": "What is the value of a in the equation 2a - 7 = 11?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "9"
+        },
+        {
+            "id": "ppr005q006",
+            "question": "What is the value of b in the equation 3b + 4 = 19?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "5"
+        },
+        {
+            "id": "ppr005q007",
+            "question": "What is the result of the expression 7² + 4³ - 8?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "43"
+        },
+        {
+            "id": "ppr005q008",
+            "question": "What is the value of c in the equation 9 - 2c = 5c - 1?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "2"
+        },
+        {
+            "id": "ppr005q009",
+            "question": "What is the value of d in the equation 3d + 8 = 5d - 2?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "5"
+        },
+        {
+            "id": "ppr005q010",
+            "question": "What is the result of the expression (10 - 3) × 4 + 8?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "44"
+        },
+        {
+            "id": "ppr005q011",
+            "question": "What is the value of e in the equation 6e - 2 = 4(e + 1)?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "3"
+        },
+        {
+            "id": "ppr005q012",
+            "question": "What is the value of f in the equation 2f + 7 = 5f - 3?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x",
+            "correct_answer": "2"
+        },
+        {
+            "id": "ppr005q013",
+            "question": "If a car travels at a speed of 60 miles per hour, how many miles will it travel in 2 hours?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x miles",
+            "correct_answer": "120 miles"
+        },
+        {
+            "id": "ppr005q014",
+            "question": "What is the difference between 3/4 and 1/2?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x/y",
+            "correct_answer": "1/4"
+        },
+        {
+            "id": "ppr005q015",
+            "question": "If a recipe calls for 2/3 cup of flour and you want to make half of the recipe, how much flour do you need?",
+            "is_mcq": false,
+            "answers": [],
+            "format": "x/y cup",
+            "correct_answer": "1/3 cup"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+      {
+        "id": "qzr001",
+        "text": "Please enter your answers using only numbers (no letters or special symbols)."
+      },
+      {
+        "id": "qzr002",
+        "text": "Make sure to answer every question, leaving a question blank will be considered as an incorrect answer."
+      },
+      {
+        "id": "qzr003",
+        "text": "You will have a limited time to complete the quiz, so please do your best to answer all questions in a timely manner."
+      },
+      {
+        "id": "qzr004",
+        "text": "The quiz will automatically submit when time is up, so make sure to answer as many questions as possible before time runs out."
+      },
+      {
+        "id": "qzr005",
+        "text": "You can only submit your answers once, so make sure to double-check your answers before submitting."
+      },
+      {
+        "id": "qzr006",
+        "text": "Please do not refresh or leave the page during the quiz, as it may affect your progress or answers."
+      },
+      {
+        "id": "qzr007",
+        "text": "Please do not use external resources or help during the quiz, as it may result in an unfair advantage."
+      },
+      {
+        "id": "qzr008",
+        "text": "Each question will only have one correct answer, so please read the question and all options carefully before answering."
+      },
+      {
+        "id": "qzr009",
+        "text": "Please do not share the quiz questions or answers with others, as it may affect the integrity of the quiz for future users."
+      },
+      {
+        "id": "qzr010",
+        "text": "Enjoy the quiz and have fun!"
+      }
+]
